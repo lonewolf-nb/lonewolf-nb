@@ -1,6 +1,6 @@
 [![MasterHead](https://d3srxiunz7lgh6.cloudfront.net/xlwb6ekxcculydkiqze14n3bj1ea)](https://github.com/lonewolf-nb)
 <h1 align="center">Hi 👋, I'm Navneet</h1>
-<h3 align="center">A BTech final year student and passionate full stack developer from India</h3>
+<h3 align="center">A BTech CSE graduate and passionate full stack developer from India</h3>
 <img align="center" alt="coding" width="400" src="https://cdn.dribbble.com/users/1118376/screenshots/3604186/developer-dribbble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lonewolf-nb&label=Profile%20views&color=0e75b6&style=flat" alt="lonewolf-nb" /> </p>
